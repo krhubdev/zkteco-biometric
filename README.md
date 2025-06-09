@@ -1,5 +1,8 @@
-# 🚀 Tagoloan Community College
+<p align="center">
+  <img src="https://cdn.mserv.online/tagoloan-community-college/assets/images/logo.png" alt="Tagoloan Community College Logo" width="200"/>
+</p>
 
+# 🚀 Tagoloan Community College
 # 📚 ZKTeco Python Integration Guide
 
 This document provides an overview of working with **ZKTeco fingerprint attendance devices** using Python, specifically the [`zk`](https://pypi.org/project/zk/) library (unofficial SDK wrapper for ZKTeco).
