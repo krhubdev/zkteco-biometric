@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://sis.tcc.edu.ph/img/tcc_seal-log.png" alt="Tagoloan Community College Logo" width="150"/>
-</p>
+
 
 # 🚀 Tagoloan Community College
 # 📚 ZKTeco Python Integration Guide
@@ -29,5 +27,10 @@ If the above doesn't work or the package is not found, you're likely looking for
  pip install pyzk
 ```
 
-```bashor 
+```bash 
 pip install zklib
+```
+
+<p align="center">
+  <img src="https://sis.tcc.edu.ph/img/tcc_seal-log.png" alt="Tagoloan Community College Logo" width="150"/>
+</p>
