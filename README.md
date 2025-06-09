@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.mserv.online/tagoloan-community-college/assets/images/logo.png" alt="Tagoloan Community College Logo" width="200"/>
+  <img src="https://sis.tcc.edu.ph/img/tcc_seal-log.png" alt="Tagoloan Community College Logo" width="250"/>
 </p>
 
 # 🚀 Tagoloan Community College
