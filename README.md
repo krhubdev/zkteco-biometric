@@ -13,12 +13,17 @@ This document provides an overview of working with **ZKTeco fingerprint attendan
 - Install `zk` library:
 - Run app.py
 
-#❗Note
+```bash
+pip install zk 
+
+```
+## ❗Note
 
 If the above doesn't work or the package is not found, you're likely looking for:
 
-- pip install pyzk
-- or pip install zklib
-
 ```bash
-pip install zk
+ pip install pyzk
+```
+
+```bashor 
+pip install zklib
