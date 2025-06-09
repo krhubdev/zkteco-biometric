@@ -1,5 +1,6 @@
-# 📚 ZKTeco Python Integration Guide
 # 🚀 Tagoloan Community College
+
+# 📚 ZKTeco Python Integration Guide
 
 This document provides an overview of working with **ZKTeco fingerprint attendance devices** using Python, specifically the [`zk`](https://pypi.org/project/zk/) library (unofficial SDK wrapper for ZKTeco).
 
