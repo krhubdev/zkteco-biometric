@@ -24,7 +24,7 @@ pip install zk
 If the above doesn't work or the package is not found, you're likely looking for:
 
 ```bash
- pip install pyzk
+pip install pyzk
 ```
 
 ```bash 
